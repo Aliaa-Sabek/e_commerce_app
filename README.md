@@ -1,16 +1,14 @@
-# e_commerce_app
+ 🛍️ e_commerce_app
 
-A new Flutter project.
+A modern Flutter e-commerce application built with **Java (Android side)** and the latest **Gradle updates**.  
+This project is designed as part of DEPI training to practice **state management, UI/UX design, and integration with mobile features**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+🚀 Features
+- 📱 Cross-platform app built with **Flutter**
+- 🎨 Clean UI and responsive design
+- 🛒 E-commerce base structure (products, cart, wishlist, etc.)
+- 💾 Persistent storage using **Shared Preferences**
+- ⚡ Fast development with **Gradle Kotlin DSL**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
